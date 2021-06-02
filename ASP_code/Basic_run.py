@@ -46,7 +46,7 @@ rider_intervals = InstanceGenCL.RiderGenInterval('데이터/interval_rider_data3
 master_info = []
 for i in datas:
     master_info.append([])
-
+print('test')
 ################실행 ##############
 for data in datas:
     data_index = datas.index(data)
